@@ -1,4 +1,3 @@
-# neet-admit-card-2026-guide
 # 🎓 NEET Admit Card 2026 Guide
 
 The NEET Admit Card 2026 is one of the most important documents required for candidates appearing in the NEET UG examination. Every student must carefully verify all details mentioned on the admit card including reporting time, examination centre details, and important exam instructions before the examination day.
@@ -49,5 +48,4 @@ NEET UG is one of the most competitive medical entrance examinations for student
 
 Candidates should carefully read all official instructions and keep all required documents prepared before the examination date.
 
-🔗 Official Guide:  
-https://www.tutelagestudy.com/exams/neet-ug/neet-admit-card/neet-admit-card-2026/
+🔗 [Official NEET Admit Card 2026 Guide](https://www.tutelagestudy.com/exams/neet-ug/neet-admit-card/neet-admit-card-2026/)
